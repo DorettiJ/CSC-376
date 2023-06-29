@@ -1,2 +1,2 @@
 # CSC-376
-Distributed systems
+Contains all course work from my time in Distributed systems
